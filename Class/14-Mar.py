@@ -15,6 +15,7 @@ driver.find_element(By.XPATH,"//button[type()='Submit']").click()
 driver.find_element(By.XPATH,"//button[.='Submit']").click() #this or that^|
 sleep(2)
 
+
 driver.get("https://www.amazon.in/")
 driver.maximize_window()
 sleep(2)
