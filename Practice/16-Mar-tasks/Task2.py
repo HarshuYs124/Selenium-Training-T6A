@@ -15,3 +15,5 @@ driver.find_element(By.XPATH, "//button[@type='submit']").click()
 sleep(2)
 price = driver.find_element(By.XPATH, "//a[text()='Big Dial Analog Watch  - For Women 106408499']/../../../..//div[contains(text(),'₹')]").text
 print(price)
+
+driver.close()
