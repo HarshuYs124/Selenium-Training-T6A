@@ -19,3 +19,4 @@ driver.find_element(By.XPATH,"(//h2/span)[1]")
 price=driver.find_element(By.XPATH,"//span[text()='iQOO Z10x 5G (Ultramarine, 8GB RAM, 256GB Storage) | 6500 mAh Large Capacity Battery | Dimensity 7300 Processor | Military-Grade Durability']/../../../..//span[@class='a-price-whole']").text
 print("price of phone is: ",price)
 
+driver.close()
