@@ -1,0 +1,21 @@
+from selenium.webdriver import Chrome, ChromeOptions
+from selenium.webdriver.common.by import By
+
+o =ChromeOptions()
+o.add_experimental_option('detach', True)
+driver = Chrome(options=o)
+driver.get('https://demowebshop.tricentis.com/register')
+driver.implicitly_wait(10)
+driver.find_element(By.ID, 'gender-female').click()
+driver.find_element(By.ID, 'FirstName').click()
+driver.find_element(By.ID, 'FirstName').send_keys('Harshita')
+driver.find_element(By.ID, 'LastName').click()
+driver.find_element(By.ID, 'LastName').send_keys('Yadav')
+driver.find_element(By.NAME, 'Email').click()
+driver.find_element(By.NAME, 'Email').send_keys('harshita@gmail.com')
+driver.find_element(By.ID, 'Password').click()
+driver.find_element(By.ID, 'Password').send_keys('123467')
+driver.find_element(By.ID, 'ConfirmPassword').click()
+driver.find_element(By.ID, 'ConfirmPassword').send_keys('123467')
+driver.find_element(By.ID, 'register-button').click()
+driver.quit()
