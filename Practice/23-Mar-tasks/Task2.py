@@ -44,6 +44,4 @@ size = driver.find_element(By.XPATH, "//label[contains(text(),'UK 4.5')]").click
 driver.find_element(By.XPATH,'//button[text()="Add to Bag"]').click()
 sleep(2)
 
-driver.close()
-driver.switch_to.window(driver.window_handles[0])
-driver.close()
+driver.quit()
