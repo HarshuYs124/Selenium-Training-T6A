@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b1baacc-cb4c-4e46-b2ee-9b40830c9135" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Class/.ai/mcp/mcp.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/.idea/Selenium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/.idea/PythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/12-Mar-launch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/13-Mar-locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/14-Mar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/15-Mar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/17-Mar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Class/19-Mar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/12-Mar-tasks/Task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/12-Mar-tasks/Task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/12-Mar-tasks/Task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/13-Mar-tasks/Task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/13-Mar-tasks/Task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/13-Mar-tasks/Task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/13-Mar-tasks/Task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/16-Mar-tasks/Task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/16-Mar-tasks/Task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/17-Mar-tasks/Task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/17-Mar-tasks/Task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/19-Mar-tasks/Task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/19-Mar-tasks/Task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/19-Mar-tasks/Task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/19-Mar-tasks/Task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/20-Mar-tasks/Task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/20-Mar-tasks/Task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/Problem_Statement_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/Problem_Statement_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/Problem_Statement_3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/Problem_Statement_4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Practice/Problem_Statement_5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3B0ttAiCsjqZxywvik0gFTHI0pn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.15-Mar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17-Mar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-Mar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20-Mar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25-Mar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium\Class" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b1baacc-cb4c-4e46-b2ee-9b40830c9135" name="Changes" comment="" />
+      <created>1773638027605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773638027605</updated>
+      <workItem from="1773638028663" duration="29476000" />
+      <workItem from="1773896386635" duration="18465000" />
+      <workItem from="1773982703373" duration="597000" />
+      <workItem from="1773997283712" duration="5213000" />
+      <workItem from="1774283889504" duration="13079000" />
+      <workItem from="1774328043891" duration="7954000" />
+      <workItem from="1774414043635" duration="8159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium$25_Mar.coverage" NAME="25-Mar Coverage Results" MODIFIED="1774422091225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1774416591545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/24-Mar-tasks" />
+    <SUITE FILE_PATH="coverage/Selenium$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1774423794251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/25-Mar-tasks" />
+    <SUITE FILE_PATH="coverage/Selenium$19_Mar.coverage" NAME="19-Mar Coverage Results" MODIFIED="1773912490048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium$15_Mar.coverage" NAME="15-Mar Coverage Results" MODIFIED="1773654430123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1774336848127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/24-Mar-tasks" />
+    <SUITE FILE_PATH="coverage/Selenium$20.coverage" NAME="20 Coverage Results" MODIFIED="1774000834339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1774416338861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/24-Mar-tasks" />
+    <SUITE FILE_PATH="coverage/Selenium$17_Mar.coverage" NAME="17-Mar Coverage Results" MODIFIED="1773768748111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium$20_Mar.coverage" NAME="20-Mar Coverage Results" MODIFIED="1773998937444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Selenium$24.coverage" NAME="24 Coverage Results" MODIFIED="1774336034494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+  </component>
+</project>
