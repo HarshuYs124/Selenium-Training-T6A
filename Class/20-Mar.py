@@ -27,7 +27,7 @@ sleep(3)
 #deselect
 # option.deselect_by_index(1)
 # option.deselect_by_visible_text('Dance')
-option.deselect_all()
+option.deselect_all() 
 
 
 #task
