@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b1baacc-cb4c-4e46-b2ee-9b40830c9135" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/20-Mar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/20-Mar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/24-Mar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/24-Mar-files/24-Mar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Problem_Statement_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/12-Mar-tasks/Problem_Statement_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Problem_Statement_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/13-Mar-tasks/Problem_Statement_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Problem_Statement_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/16-Mar-tasks/Problem_Statement_3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Problem_Statement_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/17-Mar-tasks/Problem_Statement_4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Problem_Statement_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/19-Mar-tasks/Problem_Statement_5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Problem_Statement_7.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/23-Mar-tasks/Problem_Statement_7.md" afterDir="false" />
-    </list>
+    <list default="true" id="5b1baacc-cb4c-4e46-b2ee-9b40830c9135" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,63 +33,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in Task2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_assert.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_task3.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in testassert.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in testtask.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in sec.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_2-Aug.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_data.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_kk.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15-Mar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17-Mar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19-Mar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20-Mar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.25-Mar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.abc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_driven_testing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.openpyxl.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.requests.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ts.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in Task1.py.executor": "Run",
+    "Python tests.Python tests in Task2.py.executor": "Run",
+    "Python tests.Python tests in test_Task1.py.executor": "Run",
+    "Python tests.Python tests in test_assert.py.executor": "Run",
+    "Python tests.Python tests in test_task3.py.executor": "Run",
+    "Python tests.Python tests in testassert.py.executor": "Run",
+    "Python tests.Python tests in testtask.py.executor": "Run",
+    "Python tests.pytest in sec.py.executor": "Run",
+    "Python tests.pytest in test_2-Aug.py.executor": "Run",
+    "Python tests.pytest in test_data.py.executor": "Run",
+    "Python tests.pytest in test_kk.py.executor": "Run",
+    "Python.15-Mar.executor": "Run",
+    "Python.17-Mar.executor": "Run",
+    "Python.19-Mar.executor": "Run",
+    "Python.20-Mar.executor": "Run",
+    "Python.20.executor": "Run",
+    "Python.24.executor": "Run",
+    "Python.25-Mar.executor": "Run",
+    "Python.Task.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task3.executor": "Run",
+    "Python.Task4.executor": "Run",
+    "Python.abc.executor": "Run",
+    "Python.data_driven_testing.executor": "Run",
+    "Python.openpyxl.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.requests.executor": "Run",
+    "Python.ts.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api" />
+      <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api\Pytest\Class\test_data" />
+      <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api\Pytest\Class" />
       <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api\Class" />
       <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api\Practice\23-Mar-tasks" />
-      <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api\Practice\19-Mar-tasks" />
-      <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api\Practice\17-Mar-tasks" />
-      <recent name="C:\Users\Harshita Yadav\PycharmProjects\Selenium_Api\Practice\16-Mar-tasks" />
     </key>
   </component>
   <component name="SharedIndexes">
